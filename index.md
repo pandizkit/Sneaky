@@ -56,7 +56,7 @@ No. Sneaky is completely invisible for privacy.
 
 ## Contact
 
-Created by [Your Name]  
-Questions? Open an issue on [GitHub](https://github.com/yourusername/sneaky/issues).
+Created by [pandizkit]  
+Questions? Open an issue on [GitHub](https://github.com/pandizkit/Sneaky-Aplicacion-Ocultar_ventanas/issues).
 
 ---
