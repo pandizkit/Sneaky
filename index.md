@@ -1,18 +1,15 @@
 # Sneaky
 
-![Logo](logo_full_512.png)
-
----
-
 ## Download Sneaky
 
-[![Download latest version](https://img.shields.io/badge/Download-latest%20release-blue?logo=github)](https://github.com/pandizkit/Sneaky-Aplicacion-Ocultar_ventanas/releases/latest)
+[Download latest version (GitHub Releases)](https://github.com/pandizkit/Sneaky-Aplicacion-Ocultar_ventanas/releases/latest)
 
 ---
 
 ## What is Sneaky?
 
-Sneaky is a Windows application to **instantly hide and mute windows** with keyboard shortcuts. Total privacy, no tray icon, and lightweight.
+Sneaky is a Windows app to instantly **hide and mute windows** with keyboard shortcuts.  
+Total privacy, no tray icon, lightweight.
 
 ---
 
@@ -27,7 +24,7 @@ Sneaky is a Windows application to **instantly hide and mute windows** with keyb
 
 ## How to use
 
-1. Download Sneaky (see above).
+1. Download Sneaky from the link above.
 2. Unzip and run `Sneaky.exe`.
 3. Use the default shortcuts to hide and restore windows.
 
@@ -56,7 +53,7 @@ No. Sneaky is completely invisible for privacy.
 
 ## Contact
 
-Created by [pandizkit]  
+Created by pandizkit  
 Questions? Open an issue on [GitHub](https://github.com/pandizkit/Sneaky-Aplicacion-Ocultar_ventanas/issues).
 
 ---
