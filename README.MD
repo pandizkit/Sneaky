@@ -3,7 +3,7 @@
 ## ¿Qué es Sneaky?
 
 Sneaky es una app que se ejecuta en segundo plano. Permite através de atajos, ocultar las ventanas que querramos, sin que se muestren ni en la pantalla, ni en la barra de tareas (ademas silencia el sonido de dichas ventanas).
-Ideal para gente que quiere privacidad o se la quiere rascar en el laburo.
+Ideal para gente que quiere privacidad en cualquier momento.
 
 ---
 
